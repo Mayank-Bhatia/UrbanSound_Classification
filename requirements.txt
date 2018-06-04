@@ -1,0 +1,5 @@
+librosa==0.6.0
+pandas==0.20.3
+Keras==2.1.5
+numpy==1.14.2+mkl
+scikit_learn==0.19.1
