@@ -12,7 +12,7 @@ numpy==1.14.2+mkl <br>
 scikit_learn==0.19.1 <br>
 
 ## Acknowledge:
-J. Salamon, C. Jacoby and J. P. Bello, "[A Dataset and Taxonomy for Urban Sound Research]", 22nd ACM International Conference on Multimedia, Orlando USA, Nov. 2014.
+J. Salamon, C. Jacoby and J. P. Bello, "A Dataset and Taxonomy for Urban Sound Research", 22nd ACM International Conference on Multimedia, Orlando USA, Nov. 2014. <br>
 [[ACM](https://dl.acm.org/citation.cfm?id=2655045)][[PDF](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.pdf)][[BibTeX](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.bib)]
 
 
