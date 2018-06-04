@@ -1,8 +1,7 @@
 The [UrbanSound8k](https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html) dataset 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes: air_conditioner, car_horn, 
 children_playing, dog_bark, drilling, engine_idling, gun_shot, jackhammer, siren, and street_music.
 
-We'll take a look at a standard multiperceptron model, as well as convolutional and recurrent nets. Feature extraction is done using
-the open source library called [Librosa](http://librosa.github.io/). Librosa allows you to load sound files, extract features, generate waveplot, and much more. Training is done using [Keras](https://keras.io/), which offers a high-level neural-network API.
+Feature extraction is done using the open source library called [Librosa](http://librosa.github.io/). Librosa allows you to load sound files, extract features, generate waveplot, and much more. We'll take a look at a standard multiperceptron model, as well as convolutional and recurrent nets. This is done using [Keras](https://keras.io/), which offers a high-level neural-network API.
 
 ## Requirements:
 librosa==0.6.0 <br>
